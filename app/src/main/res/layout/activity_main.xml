@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/portada"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textColor="@color/textPrimary"/>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@drawable/portada"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center" />
+
+    <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginBottom="5dp"
+       android:layout_marginEnd="5dp"
+       android:layout_marginStart="5dp"
+       android:layout_marginTop="10dp"
+       android:text="@string/textos"
+       android:textSize="15sp"
+       android:textAlignment="center"
+       android:textColor="@color/textPrimary" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/ilustraciones"
+        android:textSize="15sp"
+        android:textAlignment="center"
+        android:textColor="@color/textPrimary" />
+
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Iniciar"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/azul"/>
+
+
+</LinearLayout>

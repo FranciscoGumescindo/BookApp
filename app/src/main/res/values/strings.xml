@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="pagina1">Érase una vez una nube que vivia sobre un país muy bello..</string>
+
+    <string name="pagina2">Un dia, vio pasar otra nube mucho más grande, y sintió tanta envidia, que decidió que,
+        para ser más grande, nunca más daria su agua a nadie, y nunca más lloveria.</string>
+
+    <string name="pagina3">Efectivamente. la nube fue creciendo, al tiempo que su pais se secaba, luego se fueron
+        las personas, después los animales, y finalmente las plantas, hasta que aquel país se convirtió en un..</string>
+
+    <string name="pagina4">A la nube no le importó mucho, pero no se dio cuenta de que al estar sobre un desierto,
+        ya no había ningún sitio de donde sacar agua para seguir creciendo, y lentamente, la nube empezó a perder
+        tamaño, sin poder hacer nada para evitarlo..</string>
+
+    <string name="pagina5">La nube comprendió entonces su error, y que su avaricia y egoismo serían la causa de su
+        desaparición, pero justo antes de evaporarse, cuando sólo quedaba de ella un suspiro de algodon, apareció
+        una suave brisa.</string>
+
+    <string name="pagina6">La nube era tan pequeña y pesaba tan poco, que el viento la llevó consigo mucho tiempo
+        hasta llegar a un pais lejano, precioso, donde volvió a recuperar su tamaño.</string>
+
+    <string name="pagina7">Y, aprendida la lección, siguió siendo una nube pequeña y modesta, pero dejaba lluvias
+        tan generosas y cuidadas, que aquel pais se convirtió en el más verde, más bonito y con más arcoiris del mundo.</string>
+
+    <string name="portada">CUENTOS PARA DORMIR</string>
+    <string name="textos">Textos: Pedro Pablo Sacristán</string>
+    <string name="ilustraciones">Ilustraciones: Carolina González</string>
+</resources>
